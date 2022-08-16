@@ -50,7 +50,7 @@
     ]
   },
   "devDependencies": {
-    "@lit-labs/react": "^1.0.7",
+    "@lit-labs/react": "1.0.8",
     "@types/react-router-dom": "^5.1.7",
     "rimraf": "^3.0.2",
     "webpack-bundle-analyzer": "^4.4.0"
